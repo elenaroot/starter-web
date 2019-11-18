@@ -11,3 +11,5 @@ Sample website with plenty of files for demos
 
 ##How to contribute
 it is very easy!
+### Copyright
+2019
