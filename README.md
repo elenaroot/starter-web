@@ -13,3 +13,5 @@ Sample website with plenty of files for demos
 it is very easy!
 ### Copyright
 2019
+
+Please fork this repository and issue Pull Request for review
