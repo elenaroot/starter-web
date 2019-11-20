@@ -19,4 +19,4 @@ it is very easy!
 
 Please fork this repository and issue Pull Request for review
 
-## Adding for rebasing example
+## Adding for rebasing example, then more changes from my features branch
